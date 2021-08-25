@@ -1,0 +1,8 @@
+2021-08-25 14:36:29,105 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-10] FATAL ERROR
+2021-08-25 14:36:29,298 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2021-08-25 14:36:29,472 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2021-08-25 14:36:29,746 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2021-08-25 14:36:29,978 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2021-08-25 14:37:12,095 INFO com.example.demo.DemoApplication [main] Starting DemoApplication using Java 11.0.2 on DESKTOP-C9S6QNR with PID 15052 (D:\Lahiru\training\projects\logging\demo\build\classes\java\main started by lahir in D:\Lahiru\training\projects\logging\demo)
+2021-08-25 14:37:12,103 DEBUG com.example.demo.DemoApplication [main] Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-25 14:37:12,104 INFO com.example.demo.DemoApplication [main] No active profile set, falling back to default profiles: default

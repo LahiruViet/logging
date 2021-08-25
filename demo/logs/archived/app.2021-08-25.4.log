@@ -1,0 +1,10 @@
+2021-08-25 14:36:19,769 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-10] FATAL ERROR
+2021-08-25 14:36:19,961 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2021-08-25 14:36:20,146 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2021-08-25 14:36:20,329 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2021-08-25 14:36:20,530 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2021-08-25 14:36:20,721 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2021-08-25 14:36:20,913 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2021-08-25 14:36:21,098 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-7] FATAL ERROR
+2021-08-25 14:36:21,281 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-8] FATAL ERROR
+2021-08-25 14:36:21,464 INFO com.example.demo.controller.HomeController [http-nio-8080-exec-9] FATAL ERROR
